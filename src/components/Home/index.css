@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #2b2c49;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-container {
+  text-align: center;
+}
